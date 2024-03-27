@@ -1,15 +1,11 @@
 # PyDracula - Modern GUI PySide6 / PyQt6
-# 
+ 
+# This project is designed to improve the efficiency of practical work. Currently, there are three modules. Due to the need for some confidential files from the project team for program input, the current code cannot be used directly. If you want to use it, please download the complete version from the project team's cloud drive
 
-> ## :gift: **//// DONATE ////**
-> ## 🔗 Donate (Gumroad): https://gum.co/mHsRC
-> This interface is free for any use, but if you are going to use it commercially, consider helping to maintain this project and others with a donation by Gumroado at the link above. This helps to keep this and other projects active.
+> ## This project is based on modifications made by PyDracula. The author's Github for PyDracula is as follows.
+> https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6
 
 > **Warning**: this project was created using PySide6 and Python 3.9, using previous versions can cause compatibility problems.
-
-# YouTube - Presentation And Tutorial
-Presentation and tutorial video with the main functions of the user interface.
-> 🔗 https://youtu.be/9DnaHg4M_AM
 
 # Multiple Themes
 ![PyDracula_Default_Dark](https://user-images.githubusercontent.com/60605512/112993874-0b647700-9140-11eb-8670-61322d70dbe3.png)
@@ -67,6 +63,14 @@ Up
 After expoting in .py and change the line "import resources_rc" to "from. Resoucers_rc import *" to use as a module.
 
 > **images/**: put all your images and icons here before converting to Python (resources_re.py) ```pyside6-rcc resources.qrc -o resources_rc.py```.
+
+> **logic.py**: The generation logic of all files for capacity monitoring.
+
+> **connection.py**: Responsible for connecting front-end pages and back-end logic.
+
+> **batch_print.py**:Module for printing all files in a folder together.
+
+> **keyword_search.py**: The logic of organizing the results of keyword search into an Excel file.
 
 # Projects Created Using PyDracula
 **See the projects that were created using PyDracula.**
