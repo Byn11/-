@@ -1,6 +1,6 @@
 # PyDracula - Modern GUI PySide6 / PyQt6
  
-# This project is designed to improve the efficiency of practical work. Currently, there are three modules. Due to the need for some confidential files from the project team for program input, the current code cannot be used directly. If you want to use it, please download the complete version from the project team's cloud drive
+## This project aims to improve the efficiency of practical work. At present, there are three modules: capacity monitoring Excel generation, batch printing, and keyword search result Excel generation. Due to the project team requiring some confidential files for program input, the current code cannot be used directly. If you want to use it, please download the complete version from the project team's cloud drive
 
 > ## This project is based on modifications made by PyDracula. The author's Github for PyDracula is as follows.
 > https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6
